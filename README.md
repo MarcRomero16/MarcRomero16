@@ -8,12 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a fourth-year Computer Engineering student studying at the University of California, Santa Cruz.  
-I'm working toward becoming a Digital Hardware Engineer. I enjoy working on embedded systems, 
-designing digital logic, and exploring how hardware and software interact at the lowest levels.
-I'm currently a Break Through Tech AI Fellow, where I’ve gained knowledge in machine learning and exposure to real-world AI applications. 
-I also serve as the Events Coordinator for my SHPE chapter at UCSC, where I help organize workshops, panels, and networking events to support Latino students in STEM.
-I'm very passionate about building impactful technology and uplifting my community along the way.
+I'm currently pursuing a Master of Engineering in Integrated Circuit Design at the University of California, Los Angeles (UCLA), after earning my B.S. in Computer Engineering with a concentration in Digital Hardware from UC Santa Cruz.
+
+I'm passionate about digital hardware design, VLSI, and ASIC development, with a particular interest in designing efficient hardware accelerators and exploring how hardware and software work together. Through my coursework and hands-on projects, I've gained experience in RTL design, functional verification, and chip design workflows.
+
+Beyond engineering, I've been actively involved in supporting underrepresented students in STEM through organizations like SHPE and MESA. I enjoy giving back to my community, mentoring others, and helping create opportunities for future engineers.
+
+My goal is to become a Digital IC Design Engineer, contributing to innovative semiconductor technologies while continuing to learn, grow, and make a positive impact.
 
 ---
 
